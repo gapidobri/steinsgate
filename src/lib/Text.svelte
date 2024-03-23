@@ -4,7 +4,7 @@
 	const d = 2000;
 </script>
 
-<div class="mt-8 flex flex-col text-center">
+<div class="mt-8 flex flex-col items-center text-center">
 	<div class="h-6">
 		<Typewriter interval={50} delay={d}>Decieve your other self.</Typewriter>
 	</div>
