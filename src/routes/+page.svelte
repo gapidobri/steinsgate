@@ -9,7 +9,7 @@
 		<Text />
 	</div>
 	<div class="flex w-full justify-end p-2">
-		<span class="text-xs"></span>
+		<span class="text-xs">
 			made by <a class="underline" href="https://l.gapi.me/anilist">gapi</a>
 		</span>
 	</div>
