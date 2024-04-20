@@ -9,7 +9,7 @@
 		<Typewriter interval={50} delay={d}>Decieve your other self.</Typewriter>
 	</div>
 	<div class="mt-3 h-6">
-		<Typewriter interval={50} delay={d + 2000}>Decieve the world.</Typewriter>
+		<Typewriter interval={50} delay={d + 2000}>Deceive the world.</Typewriter>
 	</div>
 	<div class="mt-1 h-6">
 		<Typewriter interval={50} delay={d + 4000}>
