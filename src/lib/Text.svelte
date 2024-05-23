@@ -22,6 +22,6 @@
 	<div class="mt-8 flex h-7 space-x-2 text-lg font-bold">
 		<Typewriter interval={50} delay={d + 8500}>El.</Typewriter>
 		<Typewriter interval={50} delay={d + 9500}>Psy.</Typewriter>
-		<Typewriter interval={50} delay={d + 10500}>Congroo.</Typewriter>
+		<Typewriter interval={50} delay={d + 10500}>Kongroo.</Typewriter>
 	</div>
 </div>
